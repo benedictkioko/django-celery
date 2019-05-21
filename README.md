@@ -1,10 +1,10 @@
 ## Celery
 
-Celery app we created in the project root will collect all tasks defined across all Django apps listed in the INSTALLED_APPS configuration.
+Celery app will be created in the project root to collect all tasks defined across all Django apps listed in the INSTALLED_APPS configuration.
 
 Let`s create celery task that generates a number of random User accounts.
 
-lets start by installing celery
+We start by installing celery
 
 `$ pip install celery`
 
