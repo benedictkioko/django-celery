@@ -1,4 +1,4 @@
-##Celery
+## Celery
 
 Celery app we created in the project root will collect all tasks defined across all Django apps listed in the INSTALLED_APPS configuration.
 
